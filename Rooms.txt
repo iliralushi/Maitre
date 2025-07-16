@@ -1,0 +1,7 @@
+01 10 Classroom true true
+02 20 Classroom true false
+03 30 Classroom false true
+04 10 Laboratory true true
+05 20 Laboratory true false
+06 30 Laboratory false true
+
