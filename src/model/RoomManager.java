@@ -88,7 +88,7 @@ public class RoomManager
         }
     }
 
-    public boolean saveReservationsToFile(String filePath)
+    public boolean saveRoomsToFile(String filePath)
     {
         try
         {
